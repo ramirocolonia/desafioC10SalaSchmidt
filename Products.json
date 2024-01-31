@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "title": "producto prueba",
+    "description": "Este es un producto de prueba",
+    "code": "abc123",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "category": "productitos",
+    "thumbnails": [
+      "imagen"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "producto prueba3",
+    "description": "Este es un producto de prueba3",
+    "code": "abc1233",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "category": "productitos",
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "producto prueba4",
+    "description": "Este es un producto de prueba4",
+    "code": "abc1234",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "category": "productitos",
+    "thumbnails": [
+      "imagen4"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "producto prueba5",
+    "description": "Este es un producto de prueba5",
+    "code": "abc1235",
+    "price": 200,
+    "status": true,
+    "stock": 25,
+    "category": "productitos",
+    "thumbnails": [
+      "imagen5",
+      "fotito1"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "este es un nuevo producto 7",
+    "description": "description de un nuevo producto 7",
+    "code": "987654321",
+    "price": 123,
+    "status": true,
+    "stock": 321,
+    "category": "productitos",
+    "thumbnails": []
+  },
+  {
+    "id": 8,
+    "title": "este es un nuevo producto 8",
+    "description": "description de un nuevo producto 8",
+    "code": "54321",
+    "price": 123,
+    "status": true,
+    "stock": 321,
+    "category": "productitos",
+    "thumbnails": []
+  },
+  {
+    "id": 9,
+    "title": "Modificado este es un nuevo producto 9",
+    "description": "MODIFICADO description de un nuevo producto 9",
+    "code": "123456789",
+    "price": 123,
+    "status": true,
+    "stock": 321,
+    "category": "productitos",
+    "thumbnails": [
+      "fotito1",
+      "fotito2",
+      "fotito3"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "producto nuevo de ahora MODIFICADO",
+    "description": "description de producto nuevo de ahora",
+    "code": "12345",
+    "price": 123,
+    "status": true,
+    "stock": 321,
+    "category": "productitos",
+    "thumbnails": [
+      "fotito1",
+      "fotito2",
+      "fotito3"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "ingresado desde webSocket",
+    "description": "asjsjak",
+    "code": "1234",
+    "price": "12",
+    "status": true,
+    "stock": "21",
+    "category": "sadas",
+    "thumbnails": [
+      "asd"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "ws2",
+    "description": "asdlfka",
+    "code": "0303",
+    "price": "123",
+    "status": true,
+    "stock": "222",
+    "category": "asd",
+    "thumbnails": [
+      ""
+    ]
+  }
+]
